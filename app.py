@@ -1,7 +1,3 @@
-# Simple Prediction App
-# By Chanin Nantasenamat (Data Professor)
-# https://youtube.com/dataprofessor
-
 # Importing requisite libraries
 import streamlit as st
 import pandas as pd
